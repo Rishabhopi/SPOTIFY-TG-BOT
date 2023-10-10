@@ -30,7 +30,10 @@ more features coming soon
 
 ### Credits
 original repo: https://github.com/rozari0/NeedMusicRobot
-thanks to rozario
+t
+Thanks to rozario
+Thanks to Masterolic♥️
+
 
 ### Donate
 <a href="https://www.buymeacoffee.com/ziyankp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
