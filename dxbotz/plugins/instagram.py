@@ -37,8 +37,8 @@ async def link_handler(Dxbotz, message):
                  dump_file=await message.reply_photo(f"https://ddinstagram.com{content_value}")
         except Exception as e:
             await message.reply_text(f"https://ddinstagram.com{content_value}")
-            if LOG_CHANNEL:
-               await Dxbotz.send_message(LOG_CHANNEL,f"Instagram {e} {content_value}")
+            if LOG_GROUP:
+               await Dxbotz.send_message(LOG_GROUP,f"Instagram {e} {content_value}")
             ##optinal 
             await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @dxziyan")
 
