@@ -6,7 +6,7 @@
 
 from pyrogram import filters, Client as Dxbotz
 import bs4, requests
-from config import LOG_CHANNEL, DUMP_GROUP
+from config import LOG_GROUP, DUMP_GROUP
 @Dxbotz.on_message(filters.regex(r'https?://.*instagram[^\s]+') & filters.incoming, group=1)
 async def link_handler(Dxbotz, message):
     link = message.matches[0].group(0)
