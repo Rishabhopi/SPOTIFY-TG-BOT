@@ -6,7 +6,7 @@
 
 from pyrogram import filters, Client as Dxbotz
 import bs4, requests
-from info import Config
+from config import LOG_CHANNEL, DUMP_GROUP
 @Dxbotz.on_message(filters.regex(r'https?://.*instagram[^\s]+') & filters.incoming, group=1)
 async def link_handler(Dxbotz, message):
     link = message.matches[0].group(0)
@@ -19,7 +19,7 @@ async def link_handler(Dxbotz, message):
         else:
             dump_file=await message.reply_video(url)
         if 'dump_file' in locals():
-           await dump_file.forward(Config.DUMP_GROUP)
+           await dump_file.forward(DUMP_GROUP)
         await m.delete()
     except Exception as e:
         try:
@@ -37,13 +37,13 @@ async def link_handler(Dxbotz, message):
                  dump_file=await message.reply_photo(f"https://ddinstagram.com{content_value}")
         except Exception as e:
             await message.reply_text(f"https://ddinstagram.com{content_value}")
-            if Config.LOG_CHANNEL:
-               await Dxbotz.send_message(Config.LOG_CHANNEL,f"Instagram {e} {content_value}")
+            if LOG_CHANNEL:
+               await Dxbotz.send_message(LOG_CHANNEL,f"Instagram {e} {content_value}")
             ##optinal 
             await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @dxziyan")
 
         finally:
             if 'dump_file' in locals():
-               if Config.DUMP_GROUP:
-                  await dump_file.forward(Config.DUMP_GROUP)
+               if DUMP_GROUP:
+                  await dump_file.forward(DUMP_GROUP)
             await m.delete()
