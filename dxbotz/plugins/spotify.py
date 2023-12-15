@@ -22,7 +22,6 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong, PeerIdInvalid
 from pyrogram.errors import ChatAdminRequired
-from dxbotz import BUG
 from requests import head
 ADMINS = 1794941609
 from requests.exceptions import MissingSchema
