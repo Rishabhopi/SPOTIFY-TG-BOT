@@ -1,5 +1,6 @@
 from pyrogram import filters,enums
-from dxbotz import AUTH_CHATS, LOG_GROUP,Dxbotz
+from config import AUTH_CHATS, LOG_GROUP
+from dxbotz import Dxbotz
 from os import mkdir
 #from utils import temp
 from random import randint
