@@ -11,7 +11,8 @@ from asyncio import sleep
 from pyrogram.types import CallbackQuery, Message 
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 from pyrogram.raw.functions import Ping
-from dxbotz import LOG_GROUP, OWNER_ID, SUDO_USERS, Dxbotz,AUTH_CHATS,BUG
+from config import LOG_GROUP, OWNER_ID, SUDO_USERS, AUTH_CHATS, BUG
+from dxbotz import Dxbotz
 from os import execvp,sys , execl,environ,mkdir
 from apscheduler.schedulers.background import BackgroundScheduler
 import shutil
