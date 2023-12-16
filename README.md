@@ -14,6 +14,7 @@
 <div align="left">
 
 ### Features
+* `✅` Added SoundCloud Download 
 * `✅` Added Shazzam Feature
 * `✅` Spotify Query Download
 * `✅` Also works sharing spotify link
