@@ -1,3 +1,8 @@
+# Copyright (C) 2024 DX-MODS
+#Licensed under the MIT License;
+#you may not use this file except in compliance with the License.
+#Author ZIYAN
+
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
 from dxbotz import Dxbotz
