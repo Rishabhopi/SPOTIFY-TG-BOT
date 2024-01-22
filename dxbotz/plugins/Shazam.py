@@ -1,4 +1,4 @@
-# Copyright (C) 2023 DX_MODS
+# Copyright (C) 2024 DX-MODS
 #Licensed under the MIT License;
 #you may not use this file except in compliance with the License.
 #Author ZIYAN
