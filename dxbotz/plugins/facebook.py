@@ -1,3 +1,8 @@
+# Copyright (C) 2024 DX-MODS
+#Licensed under the MIT License;
+#you may not use this file except in compliance with the License.
+#Author ZIYAN
+
 from pyrogram import filters, Client
 import bs4, requests,re,asyncio
 import wget,os,traceback
