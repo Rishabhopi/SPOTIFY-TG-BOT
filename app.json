@@ -7,8 +7,8 @@
     "music downloader"
   ],
   "repository": "https://github.com/DX-MODS/",
-  "website": "https://t.me/DxSpotifyDl",
-  "success_url": "https://t.me/DxSpotifyDl",
+  "website": "https://t.me/SpotifyDownlodbot",
+  "success_url": "https://t.me/SpotifyDownlodbot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
