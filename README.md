@@ -72,7 +72,7 @@ broadcast - to broadcast a message to all users
 
 ## TELAGRAM SUPPORT 
 
-* [![DX-MODS](https://img.shields.io/static/v1?label=DX&message=MODS&color=critical)](https://t.me/dxmodsupdates)
+* [![DX-MODS](https://img.shields.io/static/v1?label=DX&message=MODS&color=critical)](https://t.me/dxmods_updates)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
