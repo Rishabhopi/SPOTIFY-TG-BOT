@@ -13,6 +13,12 @@
 
 <div align="left">
 
+### Official Spotify DL bot
+
+<p align="center">
+🤖 <a href="https://t.me/SpotifyDownlodbot"><img title="Spotify DL" src="https://img.shields.io/static/v1?label=SPOTIFY&message=DL&color=blue-green"></a> 🤖
+</p>
+
 ### Features
 * `✅` Added SoundCloud Download 
 * `✅` Added Shazzam Feature
