@@ -7,7 +7,8 @@
 from pyrogram import filters, Client
 import bs4, requests,re,asyncio
 import wget,os,traceback
-from dxbotz import Dxbotz, BUG as LOG_GROUP,LOG_GROUP as DUMP_GROUP
+from dxbotz import Dxbotz
+from config import BUG as LOG_GROUP,LOG_GROUP as DUMP_GROUP
 
 @Dxbotz.on_message(filters.regex(r'https?://.*tiktok[^\s]+') & filters.incoming)
 async def link_handler(Dxbotz, message):
