@@ -26,6 +26,10 @@
 * `✅` Also works sharing spotify link
 * `✅` Added deezer download works link
 * `✅` Yt song download works link
+* `✅` Added Facebook Download
+* `✅` Added Instagram Download
+* `✅` Added TikTok Download
+* `✅` Added Twitter Download
 * `✅` Added Admin Commands
 * `✅` Added Broadcast
 * `✅` Added Download lyrics
