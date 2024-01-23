@@ -6,7 +6,8 @@
 
 
 from pyrogram import filters,Client
-from dxbotz import Dxbotz, BUG as  LOG_GROUP, LOG_GROUP as DUMP_GROUP
+from dxbotz import Dxbotz
+from config import BUG as  LOG_GROUP, LOG_GROUP as DUMP_GROUP
 import os,re,asyncio,bs4
 import requests,wget,traceback
 
