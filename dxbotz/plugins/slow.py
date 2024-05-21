@@ -200,6 +200,6 @@ async def search(Dxbotz: Dxbotz, query: CallbackQuery):
         try:
             await query.message.reply_text(f"Done✅",   
          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Feedback", callback_data="feed")]]))
-            await query.message.reply_text(f"Check out @dxmodsupdates (updates)  @dxziyan(owner)")
+            await query.message.reply_text(f"Check out @Ur_rishu_143 (updates)  @Rishu1286(owner)")
         except:
             pass     
