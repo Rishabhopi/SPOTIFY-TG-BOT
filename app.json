@@ -38,7 +38,7 @@
     },
     "LOG_GROUP": {
       "description": "The ID of the group to log to",
-      "value": "",
+      "value": "-1002062847270",
       "required": false
     },
     "DB_URL": {
@@ -51,7 +51,7 @@
     },
     "START_PIC": {
       "description": "start message pic",
-      "value": ""
+      "value": "https://graph.org/file/608c9f342236df59ac595.jpg"
     },
     "ADMIN": {
       "description": "id of admins",
