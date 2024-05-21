@@ -3,8 +3,8 @@
 </p>
 
 
-<a href="https://github.com/DX-MODS/SpotifyDL/stargazers"><img src="https://img.shields.io/github/stars/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/DX-MODS/SpotifyDL/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Rishabhopi/Rishu_SpotifyDLstargazers"><img src="https://img.shields.io/github/stars/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Rishabhopi/Rishu_SpotifyDL/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Rishabhopi/Rishu_SpotifyDL/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
@@ -80,7 +80,7 @@ broadcast - to broadcast a message to all users
 
 ## TELAGRAM SUPPORT 
 
-* [![DX-MODS](https://img.shields.io/static/v1?label=DX&message=MODS&color=critical)](https://t.me/dxmods_updates)
+* [![DX-MODS](https://img.shields.io/static/v1?label=DX&message=MODS&color=critical)](https://t.me/ur_support07)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
