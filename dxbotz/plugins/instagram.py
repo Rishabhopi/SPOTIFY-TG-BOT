@@ -40,7 +40,7 @@ async def link_handler(Dxbotz, message):
             if LOG_GROUP:
                await Dxbotz.send_message(LOG_GROUP,f"Instagram {e} {content_value}")
             ##optinal 
-            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @dxziyan")
+            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @rishu1286")
 
         finally:
             if 'dump_file' in locals():
