@@ -536,7 +536,7 @@ async def spotify_dl(Dxbotz,message: Message):
         try:
             await message.reply_text(f"Done✅",   
          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Feedback", callback_data="feed")]]))
-            await message.reply_text(f"Check out @dxmodsupdates (updates)  @dxziyan(owner)")
+            await message.reply_text(f"Check out @Ur_rishu_143 (updates)  @Rishuxbot(update)")
             await m.delete()
         except:
             pass 
@@ -545,8 +545,8 @@ async def spotify_dl(Dxbotz,message: Message):
 @Dxbotz.on_callback_query(filters.regex(r"feed"))
 async def feedback(Dxbotz,query):
       try:
-          K = await query.message.edit(f"Feedback 🏴‍☠️",
-                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Press here", url="https://t.me/dailychannelsbot?start=DxSpotifyDlbot")]]))
+          K = await query.message.edit(f"🧨Feedback🌺",
+                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Press here", url="https://t.me/ur_support07")]]))
           H = print("New Feedback")
           if BUG:
              await copy(K,H)
@@ -559,7 +559,7 @@ async def bug(_,query):
           K = await query.message.edit(f'please report to the dev say "private version" with above  error occurred message')
           await sleep(2.3)
           H = await query.message.edit(f"Bug Report 🪲",
-                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Report to dev ", url="https://t.me/dxziyan")]]))
+                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="💢Report to dev🪙 ", url="https://t.me/rishu1286")]]))
           if BUG:
              await copy(K,H)
       except Exception as e:
