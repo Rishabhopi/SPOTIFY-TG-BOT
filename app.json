@@ -59,7 +59,7 @@
     },
     "SPOTIPY_CLIENT_SECRET": {
       "description": "The client secret of the Spotify API",
-      "value": ""
+      "value":  "0f02b7c483c04257984695007a4a8d5c"
     },
     "SPOTIPY_CLIENT_ID": {
       "description": "The client ID of the Spotify API",
