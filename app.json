@@ -6,17 +6,17 @@
     "music",
     "music downloader"
   ],
-  "repository": "https://github.com/DX-MODS/",
+  "repository": "https://github.com/Rishabhopi/Rishu_SpotifyDL",
   "website": "https://t.me/SpotifyDownlodbot",
   "success_url": "https://t.me/SpotifyDownlodbot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
-      "value": ""
+      "value": "14050586"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "42a60d9c657b106370c79bb0a8ac560c"
     },
     "BOT_TOKEN": {
       "description": "Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
@@ -24,11 +24,11 @@
     },
     "OWNER_ID": {
       "description": "The ID of the owner of the bot",
-      "value": ""
+      "value": "5738579437"
     },
     "SUDO_USERS": {
       "description": "The ID of the sudo users of the bot",
-      "value": "",
+      "value": "5738579437",
       "required": false
     },
     "AUTH_CHATS": {
@@ -43,7 +43,7 @@
     },
     "DB_URL": {
       "description": "add mongodb uri",
-      "value": ""
+      "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
     },
     "DB_NAME": {
       "description": "add db name",
@@ -55,7 +55,7 @@
     },
     "ADMIN": {
       "description": "id of admins",
-      "value": ""
+      "value": "5738579437"
     },
     "SPOTIPY_CLIENT_SECRET": {
       "description": "The client secret of the Spotify API",
