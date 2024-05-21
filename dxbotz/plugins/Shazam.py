@@ -98,7 +98,7 @@ async def shazam_(client, message):
         return await msg.edit("`𝙽𝚘 𝚁𝚎𝚜𝚞𝚕𝚝𝚜 𝙵𝚘𝚞𝚗𝚍.`")
     etime = time.time()
     t_k = round(etime - stime)
-    caption = f"""<b><u>𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝙱𝚢 @SpotifyDownlodbot</b></u>
+    caption = f"""<b><u>𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝙱𝚢 @Ur_rishu_143</b></u>
     
 <b>Song Name :</b> <code>{title}</code>
 <b>Singer :</b> <code>{by}</code>
@@ -106,7 +106,7 @@ async def shazam_(client, message):
 <b>Size :</b> <code>{size_}</code>
 <b>Time Taken :</b> <code>{t_k} Seconds</code>
 
-<b><u>𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝙱𝚢 @SpotifyDownlodbot</b></u>
+<b><u>𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝙱𝚢 @Ur_rishu_143</b></u>
     """
     if thumb:
         await msg.delete()
