@@ -28,9 +28,9 @@ async def sng(bot, message):
             await mee.delete()
             await message.reply(rpl)
           except Exception as e:                            
-             await message.reply_text(f"lyrics does not found for `{song}` ", quote = True, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url = f"https://t.me/dxmodsupdates")]]))
+             await message.reply_text(f"lyrics does not found for `{song}` ", quote = True, reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url = f"https://t.me/ur_rishu_143")]]))
           finally:
-            await message.reply("Check out @DxSpotifyDl(music)  @dxziyan(owner)")
+            await message.reply("Check out @Ur_rishu_143(update)  @rishu1286(owner)")
 
 
 
