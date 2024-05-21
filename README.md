@@ -5,18 +5,18 @@
 
 <a href="https://github.com/DX-MODS/SpotifyDL/stargazers"><img src="https://img.shields.io/github/stars/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/DX-MODS/SpotifyDL/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/SpotifyDL/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Rishabhopi/Rishu_SpotifyDL/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/SpotifyDL"> <img src="https://img.shields.io/github/repo-size/DX-MODS/SpotifyDL?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/SpotifyDL/commits/DX-MODS"> <img src="https://img.shields.io/github/last-commit/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Rishabhopi/Rishu_SpotifyDL"> <img src="https://img.shields.io/github/repo-size/DX-MODS/SpotifyDL?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Rishabhopi/Rishu_SpotifyDL/commits/DX-MODS"> <img src="https://img.shields.io/github/last-commit/DX-MODS/SpotifyDL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 <div align="left">
 
 ### Official Spotify DL bot
 
 <p align="center">
-🤖 <a href="https://t.me/SpotifyDownlodbot"><img title="Spotify DL" src="https://img.shields.io/static/v1?label=SPOTIFY&message=DL&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/ur_musiic_bot"><img title="Spotify DL" src="https://img.shields.io/static/v1?label=SPOTIFY&message=DL&color=blue-green"></a> 🤖
 </p>
 
 ### Features
@@ -44,8 +44,6 @@ more features coming soon
 - [Masterolic](https://github.com/Masterolic/Spotify-Downloader)
 - Thanks To Masterolic For this wonderful bot
 
-### Donate
-<a href="https://www.buymeacoffee.com/ziyankp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 200px !important;" ></a>
 
 ### Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OUQm4b?referralCode=DX-MODS)
