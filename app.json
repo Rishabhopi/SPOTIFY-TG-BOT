@@ -63,7 +63,7 @@
     },
     "SPOTIPY_CLIENT_ID": {
       "description": "The client ID of the Spotify API",
-      "value": ""
+      "value": "4fe3fecfe5334023a1472516cc99d805"
     }
   },
 "buildpacks": [
