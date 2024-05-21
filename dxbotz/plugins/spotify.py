@@ -546,7 +546,7 @@ async def spotify_dl(Dxbotz,message: Message):
 async def feedback(Dxbotz,query):
       try:
           K = await query.message.edit(f"🧨Feedback🌺",
-                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Press here", url="https://t.me/ur_support07")]]))
+                  reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="💢Press here🔶", url="https://t.me/ur_support07")]]))
           H = print("New Feedback")
           if BUG:
              await copy(K,H)
