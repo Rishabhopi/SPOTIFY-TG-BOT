@@ -46,7 +46,7 @@ more features coming soon
 
 
 ### Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OUQm4b?referralCode=DX-MODS)
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/Rishabhopi/Rishu_SpotifyDL)
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Rishabhopi/Rishu_SpotifyDL&template=https://github.com/Rishabhopi/Rishu_SpotifyDL.git)
 ### Koyeb
