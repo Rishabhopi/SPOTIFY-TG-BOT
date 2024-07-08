@@ -20,7 +20,7 @@ async def start(client, message):
         await db.add_user(user.id)             
     txt=f"👋 Hai {user.mention} \n𝙸'𝚖 𝙰 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚖𝚞𝚜𝚒𝚌 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚜 𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝚍𝚎𝚎𝚣𝚎𝚛 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚜𝚊𝚊𝚟𝚗!"
     button=InlineKeyboardMarkup([[
-        InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
+        InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼",url='tg://openmessage?user_id=5738579437')
         ],[
         InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/ur_rishu_143'),
         InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/ur_support07')
