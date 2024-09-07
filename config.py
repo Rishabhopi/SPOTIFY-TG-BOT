@@ -23,11 +23,11 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 LOGGER = logging.getLogger(__name__)
 
 try:
-    API_ID = int(environ['API_ID','14050586'])
-    API_HASH = environ['API_HASH','42a60d9c657b106370c79bb0a8ac560c']
-    BOT_TOKEN = environ['BOT_TOKEN','6835588648:AAFL4DjO9TknW8Ih_zDzaIdHqBrrIAJE1pA']
-    DB_URL = environ['DB_URL','mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority']
-    DB_NAME = environ['DB_NAME','krisna']
+    API_ID = "14050586"
+    API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
+    BOT_TOKEN = "6835588648:AAFL4DjO9TknW8Ih_zDzaIdHqBrrIAJE1pA"
+    DB_URL = "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
+    DB_NAME = "krisna"
     OWNER_ID = int(environ['OWNER_ID','5738579437'])
 except KeyError:
     LOGGER.debug("One or More ENV variable not found.")
@@ -40,8 +40,8 @@ if OWNER_ID not in SUDO_USERS:
 ADMIN = int(environ['ADMIN','5738579437'])
 AUTH_CHATS = environ.get('AUTH_CHATS',None ).split()
 AUTH_CHATS = [int(_x) for _x in AUTH_CHATS]
-START_PIC = environ['START_PIC','https://envs.sh/b32.jpg']
-LOG_GROUP = environ.get("LOG_GROUP",'-1002062847270')
+START_PIC = "https://envs.sh/b32.jpg"
+LOG_GROUP = "-1002062847270"
 DUMP_GROUP = environ.get("DUMP_GROUP", None)
 if LOG_GROUP:
     LOG_GROUP = int(LOG_GROUP)
