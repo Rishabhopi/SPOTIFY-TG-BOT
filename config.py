@@ -25,7 +25,7 @@ LOGGER = logging.getLogger(__name__)
 try:
     API_ID = int(environ['API_ID','14050586'])
     API_HASH = environ['API_HASH','42a60d9c657b106370c79bb0a8ac560c']
-    BOT_TOKEN = environ['BOT_TOKEN','']
+    BOT_TOKEN = environ['BOT_TOKEN','6835588648:AAFL4DjO9TknW8Ih_zDzaIdHqBrrIAJE1pA']
     DB_URL = environ['DB_URL','mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority']
     DB_NAME = environ['DB_NAME','krisna']
     OWNER_ID = int(environ['OWNER_ID','5738579437'])
